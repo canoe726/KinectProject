@@ -1,0 +1,113 @@
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrush.baml
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.CoreCompileInputs.cache
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojAssemblyReference.cache
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.CopyComplete
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.baml
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrushdown.g.cs
+C:\Users\byeon\Desktop\영상처리\Module 3\KinectStreams\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingBrushdown.baml
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.baml
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.baml
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.g.cs
+C:\Users\PC\Desktop\Kinect-Drawing-master\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingMidHammer.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingMidHammer.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigdaDown.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigdaDown.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrioDown.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrio.g.cs
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrioDown.baml
+C:\Users\PC\Desktop\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrio.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe.config
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\KinectDrawing.pdb
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.dll
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\bin\Debug\Microsoft.Kinect.xml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrioDown.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrio.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigdaDown.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingMidHammer.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.cache
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing_MarkupCompile.lref
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrioDown.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDacTrio.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigdaDown.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingMidHammer.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammerDown.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingDigda.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\DrawingHammer.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.g.resources
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.Properties.Resources.resources
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.exe
+C:\Users\PC\Desktop\3학년 1학기\영상처리\프로젝트3\진행중인 모듈 3\Kinect-Drawing-master\KinectDrawing\KinectDrawing\obj\Debug\KinectDrawing.pdb
